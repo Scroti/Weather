@@ -37,3 +37,13 @@
     transform: rotate(360deg);
   }
 }
+
+.Slider {
+  background:linear-gradient(to right,#8FC23E, #FDB041, #F7941D,#DA5035,#A95C9B);
+  
+}
+.Slider > .MuiSlider-rail {
+  opacity: 0;
+  height: 1px;
+
+}

@@ -9,3 +9,9 @@
 .alert{
     font-size:2vh;
 }
+
+.bg{
+    width:200px;
+    height: 50px;
+    background-image: linear-gradient(to right,#8FC23E, #FDB041, #F7941D,#DA5035,#A95C9B);
+} 
